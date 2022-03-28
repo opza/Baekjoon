@@ -1,0 +1,96 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="10171.cs" />
+    <Compile Remove="10172.cs" />
+    <Compile Remove="1018.cs" />
+    <Compile Remove="10809.cs" />
+    <Compile Remove="10818.cs" />
+    <Compile Remove="10871.cs" />
+    <Compile Remove="10950.cs" />
+    <Compile Remove="10951.cs" />
+    <Compile Remove="10952.cs" />
+    <Compile Remove="1152.cs" />
+    <Compile Remove="1157.cs" />
+    <Compile Remove="11654.cs" />
+    <Compile Remove="11720.cs" />
+    <Compile Remove="1181.cs" />
+    <Compile Remove="1259.cs" />
+    <Compile Remove="1330.cs" />
+    <Compile Remove="1436.cs" />
+    <Compile Remove="1546.cs" />
+    <Compile Remove="1654.cs" />
+    <Compile Remove="1874.cs" />
+    <Compile Remove="1920.cs" />
+    <Compile Remove="1929.cs" />
+    <Compile Remove="1966.cs" />
+    <Compile Remove="1978.cs" />
+    <Compile Remove="2108.cs" />
+    <Compile Remove="2475.cs" />
+    <Compile Remove="2562.cs" />
+    <Compile Remove="2577.cs" />
+    <Compile Remove="2675.cs" />
+    <Compile Remove="2753.cs" />
+    <Compile Remove="2884.cs" />
+    <Compile Remove="2908.cs" />
+    <Compile Remove="2920.cs" />
+    <Compile Remove="3052.cs" />
+    <Compile Remove="4153.cs" />
+    <Compile Remove="8958.cs" />
+    <Compile Remove="9498.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1654.cs" />
+    <None Include="1874.cs" />
+    <None Include="1920.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="10171.cs" />
+    <None Include="10172.cs" />
+    <None Include="1018.cs" />
+    <None Include="10809.cs" />
+    <None Include="10818.cs" />
+    <None Include="10871.cs" />
+    <None Include="10950.cs" />
+    <None Include="10951.cs" />
+    <None Include="10952.cs" />
+    <None Include="11654.cs" />
+    <None Include="11720.cs" />
+    <None Include="1181.cs" />
+    <None Include="1259.cs" />
+    <None Include="1436.cs" />
+    <None Include="1929.cs" />
+    <None Include="1966.cs" />
+    <None Include="1978.cs" />
+    <None Include="2108.cs" />
+    <None Include="2577.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="1152.cs" />
+    <None Include="1157.cs" />
+    <None Include="1330.cs" />
+    <None Include="1546.cs" />
+    <None Include="2475.cs" />
+    <None Include="2562.cs" />
+    <None Include="2675.cs" />
+    <None Include="2753.cs" />
+    <None Include="2884.cs" />
+    <None Include="2908.cs" />
+    <None Include="2920.cs" />
+    <None Include="3052.cs" />
+    <None Include="4153.cs" />
+    <None Include="8958.cs" />
+    <None Include="9498.cs" />
+  </ItemGroup>
+
+</Project>

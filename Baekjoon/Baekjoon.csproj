@@ -19,6 +19,7 @@
     <Compile Remove="10950.cs" />
     <Compile Remove="10951.cs" />
     <Compile Remove="10952.cs" />
+    <Compile Remove="10989.cs" />
     <Compile Remove="11050.cs" />
     <Compile Remove="1152.cs" />
     <Compile Remove="1157.cs" />
@@ -26,6 +27,7 @@
     <Compile Remove="11720.cs" />
     <Compile Remove="1181.cs" />
     <Compile Remove="1259.cs" />
+    <Compile Remove="1308.cs" />
     <Compile Remove="1330.cs" />
     <Compile Remove="1436.cs" />
     <Compile Remove="1546.cs" />
@@ -62,7 +64,9 @@
 
   <ItemGroup>
     <None Include="10814.cs" />
+    <None Include="10989.cs" />
     <None Include="11050.cs" />
+    <None Include="1308.cs" />
     <None Include="15829.cs" />
     <None Include="2609.cs" />
     <None Include="2751.cs" />

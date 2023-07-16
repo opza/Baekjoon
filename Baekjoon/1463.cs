@@ -161,3 +161,6 @@ int Calculate(int x)
 }
 
 #endregion
+#region 6차
+// https://www.acmicpc.net/source/39310791
+#endregion

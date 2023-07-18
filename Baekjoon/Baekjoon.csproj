@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="1003.cs" />
     <Compile Remove="10171.cs" />
     <Compile Remove="10172.cs" />
     <Compile Remove="1018.cs" />
@@ -66,6 +67,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="1003.cs" />
     <None Include="10814.cs" />
     <None Include="10989.cs" />
     <None Include="11050.cs" />

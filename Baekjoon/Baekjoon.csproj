@@ -13,6 +13,7 @@
     <Compile Remove="10172.cs" />
     <Compile Remove="1018.cs" />
     <Compile Remove="10250.cs" />
+    <Compile Remove="1074.cs" />
     <Compile Remove="10809.cs" />
     <Compile Remove="10814.cs" />
     <Compile Remove="10818.cs" />
@@ -68,6 +69,7 @@
 
   <ItemGroup>
     <None Include="1003.cs" />
+    <None Include="1074.cs" />
     <None Include="10814.cs" />
     <None Include="10989.cs" />
     <None Include="11050.cs" />

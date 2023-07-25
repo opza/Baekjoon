@@ -88,39 +88,10 @@ int GetShortestDistance(Node startNode, Node destNode)
         distance++;
     }
 
-    //var distance = 0;
-    //var openSet = new Queue<Node>();
-    //var closeSet = new List<Node>();
-
-    //openSet.Enqueue(startNode);
-
-    //while (openSet.Count > 0)
-    //{
-    //    var currNode = openSet.Dequeue();
-
-    //    var calculatedDistance = currNode.Distances[destNode.Index];
-    //    if (calculatedDistance > 0)
-    //        return calculatedDistance + distance;
-
-    //    distance++;
-    //    closeSet.Add(currNode);
-
-    //    foreach (var neighbor in currNode.Neighbors)
-    //    {
-    //        if (neighbor == destNode)
-    //            return distance;
-
-    //        if (closeSet.Contains(neighbor))
-    //            continue;
-
-    //        openSet.Enqueue(neighbor);
-    //    }
-    //}
-
     throw new Exception("경로 없음");
 }
 
-[DebuggerDisplay("Index = {Index}")]
+//[DebuggerDisplay("Index = {Index}")]
 class Node
 {
     int _index;

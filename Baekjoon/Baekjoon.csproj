@@ -36,6 +36,7 @@
     <Compile Remove="1389.cs" />
     <Compile Remove="1436.cs" />
     <Compile Remove="1463.cs" />
+    <Compile Remove="1541.cs" />
     <Compile Remove="1546.cs" />
     <Compile Remove="15829.cs" />
     <Compile Remove="1620.cs" />
@@ -82,6 +83,7 @@
     <None Include="1308.cs" />
     <None Include="1389.cs" />
     <None Include="1463.cs" />
+    <None Include="1541.cs" />
     <None Include="15829.cs" />
     <None Include="1620.cs" />
     <None Include="1676.cs" />

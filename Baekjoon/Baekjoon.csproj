@@ -58,6 +58,7 @@
     <Compile Remove="2475.cs" />
     <Compile Remove="2562.cs" />
     <Compile Remove="2577.cs" />
+    <Compile Remove="2579.cs" />
     <Compile Remove="2609.cs" />
     <Compile Remove="2675.cs" />
     <Compile Remove="2751.cs" />
@@ -96,6 +97,7 @@
     <None Include="1927.cs" />
     <None Include="1931.cs" />
     <None Include="2178.cs" />
+    <None Include="2579.cs" />
     <None Include="2609.cs" />
     <None Include="2751.cs" />
     <None Include="2775.cs" />
